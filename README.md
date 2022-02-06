@@ -1,16 +1,17 @@
-### Hi there 👋
+<h4><p align="justify">Olá, meu nome é Ronaldo. Sejam bem-vindos e bem-vindas ao meu perfil do Github. Desde 2012 quando tive meus primeiros contatos com área da tecnologia me interessei bastante pelas ferramentas que conheci naquele momento que foram HTML, CSS, JAVASCRIPT, PHP e MYSQL. Infelizmente na época não pude dar continuidade ao meu sonho por motivos financeiros, porém nunca deixei que esse sonho viesse a perecer e na primeira oportunidade que surgiu, reacendi o fogo dessa paixão e hoje atuo como estagiário de suporte por estar mais preparado quando me candidatei a vaga, porém minha verdadeira vontade era saber como a magia acontece por baixo dos panos e a cada dia estou mais perto de descobrir e viver essa resposta. Hoje, mesmo com pouco conhecimento estou aberto à grupos de estudo e contribuições em trabalhos de desenvolvimento frontend e backend sem fins lucrativos e meu único pagamento será a experiência que irei adquirir e a vivência de trabalhar em equipe. Isso foi o pouco que pude falar sobre a minha pessoa em poucas linhas. Caso se interesse em uma ajuda extra e sem custo algum contate-me pelo linkedin clicando na logo.</p></h4>
+<h3><p align="center"><strong><em>"Cada sonho que você deixa pra trás, é um pedaço do seu futuro que deixa de existir."<br><br>Steve Jobs</em></strong></p></h3><br>
 
-<!--
-**ronaldorocha28/ronaldorocha28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img width="20%" src="https://komarev.com/ghpvc/?username=ronaldorocha28&label=Profile%20views&color=0e75b6&style=plastic" alt="ronaldorocha28" /> </p>
 
-Here are some ideas to get you started:
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronaldorocha28" alt="ronaldorocha28" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ronaldo-rocha-a18042128/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ronaldo-rocha-a18042128/" height="50" width="60" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="60"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/></p>
+
+<p align="left"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronaldorocha28&show_icons=true&theme=dracula&bg_color=0080c0&locale=en&layout=compact" alt="ronaldorocha28" /></p>
+<p align="center">&nbsp;<img width="50%" src="https://github-readme-stats.vercel.app/api?username=ronaldorocha28&show_icons=true&theme=dracula&bg_color=0080c0&cache_seconds=1800&locale=en" alt="ronaldorocha28" /></p><p align="right"><img width="50%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronaldorocha28&theme=highcontrast" alt="ronaldorocha28" /></p>
